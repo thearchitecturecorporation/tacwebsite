@@ -79,7 +79,7 @@ class NavbarV2 extends Component {
 							<nav>
 							<div className="ltn__main-menu" >
 								<ul style={{display:'flex',justifyContent:'center'}}>
-								<li><Link to="/home-v2" >Home</Link></li>
+								<li><Link to="/home" >Home</Link></li>
 								<li><Link to="/about">About</Link></li>
 								<li ><Link to="/our-projects">Projects</Link>
 									{/* <ul>
@@ -174,7 +174,7 @@ class NavbarV2 extends Component {
 					</div> */}
 					<div className="ltn__utilize-menu"  style={{textAlign:'end',fontSize:'30px',fontWeight:'600',lineHeight:'25px',fontFamily:"Poppins, sans-serif"}}>
 					<ul>
-					<li><Link to="/home-v2">Home</Link></li>
+					<li><Link to="/home">Home</Link></li>
 						{/* <li><a href="#">Home</a>
 						<ul className="sub-menu">
 						<li><Link to="/">Home Style 01</Link></li>

@@ -29,6 +29,7 @@ class Sponsor extends Component {
 			      </div> */}
 			      <div className="col-lg-2" id='responsive-text-project-heading'>
 			        <div className="ltn__brand-logo-item">
+				
 			          <img src={publicUrl+"assets/img/Allimgs/logo2.png"} alt="Brand Logo" />
 			        </div>
 			      </div>
