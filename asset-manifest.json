@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/tacwebsite/static/js/main.75f3e316.js",
+    "index.html": "/tacwebsite/index.html",
+    "main.75f3e316.js.map": "/tacwebsite/static/js/main.75f3e316.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.75f3e316.js"
+  ]
+}
