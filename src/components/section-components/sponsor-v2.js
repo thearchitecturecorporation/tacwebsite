@@ -19,8 +19,7 @@ class SponsorV2 extends Component {
 			        </div>
 			      </div> */}
 			      <div className="col-lg-2">
-			        <div className="ltn__brand-logo-item">
-			          {/* <img src={publicUrl+"assets/img/Allimgs/logo2.png"} alt="Brand Logo" /> */}
+				  <div className="ltn__brand-logo-item">
 			          <img src={publicUrl+"assets/img/Allimgs/hasmai.png"} alt="Brand Logo" />
 			        </div>
 			      </div>
